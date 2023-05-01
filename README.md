@@ -1,1 +1,1 @@
-# car-price-prediction
+# bangalore-price-prediction
